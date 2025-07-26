@@ -1,1 +1,6 @@
-
+version: STSv1
+mode: testing
+mx: mx1.spacemail.com
+mx: mx2.spacemail.com
+max_age: 604800
+id: 20250726T200000Z
